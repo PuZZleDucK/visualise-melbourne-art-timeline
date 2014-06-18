@@ -1,0 +1,42 @@
+
+
+
+
+Melbourne/Aus visualization...
+
+data.melbourne.vic.gov.au
+-text based timeline... sodoable!
+  --art by date
+//  --parking " "
+//  --employment " year
+
+histogram by year
+
+    __
+   |--|
+   |--|__
+ __|--|--|__
+|--|--|--|--|
+|98|99|00|01|
+
+ 1  4  2  1
+
+
+-language? java NIO practice
+
+-egm hack continuation ... ? ba-baw!
+-code by location (checkout github) ... predefined data sets.
+
+socrata tooling
+
+
+problem to solve:
+-parking inspector helper (highlight prone areas)
+platform ideas:
+-actually downloadable... yay
+continue:
+-finish it off at home
+
+
+
+
